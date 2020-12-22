@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Click here to get the scythe board holder](scythe/scythepage.md)
+[Click here to get the scythe board holder](http://StrawburryMilsc.github.io/scythe/scythepage.md)
 [Link](url) and ![Image](src)
 ```
 
