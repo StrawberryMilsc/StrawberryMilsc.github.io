@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/StrawberryMilsc/Strawberry
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Click here to get the scythe board holder](http://StrawburryMilsc.github.io/scythe/index.md)
+[Click here to get the scythe board holder](scythepage.md)
 
 ```markdown
 Syntax highlighted code block
